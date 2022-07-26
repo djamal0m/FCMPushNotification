@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25622812544",
+    "project_id": "fcmpushnotification-92c02",
+    "storage_bucket": "fcmpushnotification-92c02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25622812544:android:10e191cd9c5816a3695365",
+        "android_client_info": {
+          "package_name": "fr.epita.fcmpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25622812544-hdusv1rdd1s64s7vcjese4kdveke9ncj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYYWR-L8-OgstF6Fl4Z-XtuhlBXW4TcaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25622812544-hdusv1rdd1s64s7vcjese4kdveke9ncj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
